@@ -1,0 +1,1 @@
+This is a practice project for me to start using Git within IntelliJ and practice using GitHub 
